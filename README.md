@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data Science, Machine Learning projects**
 
-- 🌱 I’m currently learning **Python,pandas and Ml**
+- 🌱 I’m currently learning **Python,pandas and ML**
 
 - 🤝 I’m looking for help with **--------**
 
