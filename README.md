@@ -20,7 +20,7 @@
 - 📫 How to reach me **ysushilp@gmail.com**
           
 <br> 
-<h3 align="left">Connect with me:</h3><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h2> 
+<h3 align="left">Connect with me:</h3><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2> 
 <p align="left">
 <a href="https://twitter.com/@shadowb47948290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shadowb47948290" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sushil yeotiwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushil yeotiwad" height="30" width="40" /></a>
